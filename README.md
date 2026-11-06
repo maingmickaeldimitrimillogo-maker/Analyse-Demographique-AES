@@ -11,4 +11,4 @@ Ce projet propose une étude comparative et l'analyse des tendances démographiq
 - Demographie_AES.xlsx : Fichier de travail Excel et indicateurs consolidés.
 - unpopulation_dataportal_20261025193225.xls : Données brutes issues du portail de la population des Nations Unies.
 
-EOFcat << 'EOF' > README.md
+
